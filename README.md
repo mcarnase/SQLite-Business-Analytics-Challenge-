@@ -7,7 +7,7 @@ This project uses SQL queries to analyze a sample business database. It answers 
 - SQLTools Extension
 
 
-1. Open the database file in VS Code using SQLTools  
+1. Open the database file in VS Code
 2. Open the .sql file  
 3. Run queries using 'run on active connection' button 
 
